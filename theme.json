@@ -39,13 +39,13 @@
       "#121212"
     ],
     "STAGE_CARD_PILL_BG": [
-      "#000000"
+      "#FFAAFF"
     ],
     "STATUS_DANGER": [
-      "#000000"
+      "#FFAAFF"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#000000"
+      "#FFAAFF"
     ],
     "STATUS_DANGER_TEXT": [
       "#FFFFFF"

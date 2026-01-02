@@ -9,28 +9,28 @@
   ],
   "semanticColors": {
     "BACKGROUND_TERTIARY": [
-      "#000000"
+      "#FFAAFF"
     ],
     "BACKGROUND_ACCENT": [
       "#121212"
     ],
     "BACKGROUND_SECONDARY": [
-      "#000000"
+      "#FFAAFF"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#121212"
     ],
     "DIVIDER_STRONG": [
-      "#000000"
+      "#FFAAFF"
     ],
     "DIVIDER_SUBTLE": [
-      "#000000"
+      "#FFAAFF"
     ],
     "BORDER_SUBTLE": [
-      "#000000"
+      "#FFAAFF"
     ],
     "SPINE_DEFAULT": [
-      "#000000"
+      "#FFAAFF"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "#121212"

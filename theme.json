@@ -1,5 +1,5 @@
 {
-  "name": "Car_theme",
+  "name": "cute_girl_theme",
   "description": "Made by MEILOL theme",
   "authors": [
     {
@@ -9,28 +9,28 @@
   ],
   "semanticColors": {
     "BACKGROUND_TERTIARY": [
-      "#FFAAFF"
+      "#000000"
     ],
     "BACKGROUND_ACCENT": [
       "#121212"
     ],
     "BACKGROUND_SECONDARY": [
-      "#FFAAFF"
+      "#000000"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#121212"
     ],
     "DIVIDER_STRONG": [
-      "#FFAAFF"
+      "#000000"
     ],
     "DIVIDER_SUBTLE": [
-      "#FFAAFF"
+      "#000000"
     ],
     "BORDER_SUBTLE": [
-      "#FFAAFF"
+      "#000000"
     ],
     "SPINE_DEFAULT": [
-      "#FFAAFF"
+      "#000000"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "#121212"
@@ -39,13 +39,13 @@
       "#121212"
     ],
     "STAGE_CARD_PILL_BG": [
-      "#FFAAFF"
+      "#000000"
     ],
     "STATUS_DANGER": [
-      "#FFAAFF"
+      "#000000"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#FFAAFF"
+      "#000000"
     ],
     "STATUS_DANGER_TEXT": [
       "#FFFFFF"
@@ -63,22 +63,22 @@
       "#48bc46"
     ],
     "STATUS_POSITIVE": [
-      "#FFAAFF"
+      "#000000"
     ],
     "STATUS_POSITIVE_BACKGROUND": [
-      "#FFAAFF"
+      "#000000"
     ],
     "STATUS_POSITIVE_TEXT": [
       "#FFFFFF"
     ],
     "STATUS_SPEAKING": [
-      "#FFAAFF"
+      "#000000"
     ],
     "STATUS_WARNING": [
       "#FFFFFF"
     ],
     "STATUS_WARNING_BACKGROUND": [
-      "#FFAAFF"
+      "#000000"
     ],
     "STATUS_WARNING_TEXT": [
       "#FFFFFF"
@@ -105,7 +105,7 @@
       "#7f7f7f"
     ],
     "TEXT_MUTED_ON_DEFAULT": [
-      "#5BB3FF"
+      "#FFFFFF"
     ],
     "TEXT_NORMAL": [
       "#FFFFFF"
@@ -123,25 +123,25 @@
       "#FFFFFF"
     ],
     "THEME_LOCKED_BLUR_FALLBACK": [
-      "#FFAAFF"
+      "#000000"
     ],
     "THREAD_CHANNEL_SPINE": [
       "#FFFFFF"
     ],
     "TOAST_BG": [
-      "#FFAAFF"
+      "#000000"
     ],
     "TYPING_INDICATOR_BG": [
-      "#FFAAFF"
+      "#000000"
     ],
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-      "#FFAAFF"
+      "#000000"
     ],
     "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": [
-      "#FFAAFF"
+      "#000000"
     ],
     "VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": [
-      "#FFAAFF"
+      "#000000"
     ],
     "WHITE": [
       "#FFFFFF"
@@ -150,16 +150,16 @@
       "#FFFFFF"
     ],
     "SCROLLBAR_THIN_TRACK": [
-      "#FFAAFF"
+      "#000000"
     ],
     "SCROLLBAR_AUTO_THUMB": [
       "#FFFFFF"
     ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#FFAAFF"
+      "#000000"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#FFAAFF"
+      "#000000"
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "#FFFFFF"
@@ -171,10 +171,10 @@
       "#121212"
     ],
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
-      "#FFAAFF"
+      "#000000"
     ],
     "MENTION_BADGE": [
-      "#FF0000"
+      "#ff6161"
     ],
     "REDESIGN_MENTION_BADGE": [
       "#ff6161"
@@ -184,7 +184,7 @@
     "BLACK_500": "#00000050",
     "BRAND_260": "#FFFFFF",
     "BRAND_360": "#FFFFFF",
-    "BRAND_560": "#FFAAFF",
+    "BRAND_560": "#000000",
     "BRAND_500": "#121212",
     "ORANGE_260": "#FFFFFF",
     "ORANGE_300": "#FFFFFF",
@@ -220,22 +220,22 @@
     "PLUM_14": "#222222",
     "PRIMARY_800": "#222222",
     "PLUM_1": "#FFFFFF",
-    "PLUM_22": "#FFAAFF",
-    "PRIMARY_660": "#FFAAFF",
-    "PRIMARY_700": "#FFAAFF",
-    "PRIMARY_560": "#FFAAFF",
-    "PRIMARY_600": "#FFAAFF",
-    "PRIMARY_630": "#FFAAFF",
+    "PLUM_22": "#000000",
+    "PRIMARY_660": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_560": "#000000",
+    "PRIMARY_600": "#000000",
+    "PRIMARY_630": "#000000",
     "PLUM_15": "#121212",
-    "PLUM_17": "#FFAAFF",
-    "PLUM_18": "#FFAAFF",
-    "PLUM_19": "#FFAAFF",
-    "PLUM_20": "#FFAAFF",
-    "PLUM_23": "#FFAAFF",
-    "PLUM_24": "#FFAAFF"
+    "PLUM_17": "#000000",
+    "PLUM_18": "#000000",
+    "PLUM_19": "#000000",
+    "PLUM_20": "#000000",
+    "PLUM_23": "#000000",
+    "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/meilol-hub/Car_theme_Add/refs/heads/main/IMG_7309.jpeg",
+    "url": "https://raw.githubusercontent.com/meilol-hub/Car_theme_Add/refs/heads/main/IMG_7307.jpeg",
     "blur": 0,
     "alpha": 10,
     "size": "cover",
